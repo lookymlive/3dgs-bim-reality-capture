@@ -6,7 +6,7 @@
 
 ## 🌐 Demo en Vivo (GitHub Pages)
 Puedes visualizar el informe interactivo directamente en el navegador:
-🔗 **[Ver Informe Interactivo en GitHub Pages](https://lookymlive.github.io/3dgs-construccion-arq/)**
+🔗 **[Ver Informe Interactivo en GitHub Pages](https://lookymlive.github.io/3dgs-bim-reality-capture/)**
 
 ---
 
