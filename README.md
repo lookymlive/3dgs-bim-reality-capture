@@ -36,5 +36,9 @@ start index.html
 ---
 
 ## 👤 Autor & Contacto
+- **Profesional**: Luis P Majul
+- **Estudio**: Studio Lookym
+- **WhatsApp**: [+54 9 341 671-1760](https://wa.me/5493416711760)
+- **Email**: [lookymlive@gmail.com](mailto:lookymlive@gmail.com)
 - **GitHub**: [@lookymlive](https://github.com/lookymlive)
-- **Contacto**: `lookymlive@gmail.com`
+
